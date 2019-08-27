@@ -1,1 +1,2 @@
-# docplanerclone-react
+# docplaner-clone-react
+items navbar
